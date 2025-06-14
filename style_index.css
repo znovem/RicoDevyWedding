@@ -31,7 +31,7 @@ body {
     transform-origin: center;
     transition: transform 1s ease;
     box-shadow: 0 20px 40px rgba(0, 0.8, 0, 0.9);
-    border-radius: 8px;
+    border-radius: 0px;
 }
 
 .envelope-wrapper.open {
